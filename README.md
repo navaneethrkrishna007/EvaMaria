@@ -48,23 +48,14 @@ Read [this](https://telegram.dog/TeamEvamaria/12) before you start messing up wi
 * `FILE_STORE_CHANNEL`: Channel from were file store links of posts should be made.Separate multiple IDs by space
 * Check [info.py](https://github.com/EvamariaTG/evamaria/blob/master/info.py) for more
 
-
-## Deploy
-You can deploy this bot anywhere.
-
-<i>**[Watch Deploying Tutorial...](https://youtu.be/1G1XwEOnxxo)**</i>
-
-<details><summary>Deploy To Heroku</summary>
-<p>
-<br>
-<a href="https://telegram.dog/XTZ_HerokuBot?start=RXZhbWFyaWFURy9FdmFNYXJpYSBtYXN0ZXI">
-  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
-</a>
+####### Deployment On Heroku
+<p align="center">
+<a href="https://heroku.com/deploy?template=https://github.com/navaneethrkrishna007/EvaMaria"><img src="https://github.com/PR0FESS0R-99/Buttons/blob/Professor-99/heroku/herokudeploy-01.svg" alt="PR0FESS0R-99" border="0" height="125" width="200" align="center" /></a>
 </p>
-</details>
 
 <details><summary>Deploy To VPS</summary>
-<p>
+
+<pe>
 <pre>
 git clone https://github.com/EvamariaTG/evamaria
 # Install Packages
